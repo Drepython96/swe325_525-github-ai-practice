@@ -35,10 +35,19 @@
 - Pull-request URL: https://github.com/Drepython96/swe325_525-github-ai-practice/pull/2
 
 ## Reflection
-To be completed after reviewing the work.
+### 1. Which GitHub action or object was most useful to you, and why?
+The commits were most useful because they recorded each meaningful change. I could look back at the history and link to specific work.
 
-1. Which GitHub action or object was most useful to you, and why?
-2. Which AI suggestion did you accept, and what made it useful?
-3. Which AI suggestion did you revise or reject, and why?
-4. What did you verify yourself instead of trusting the AI?
-5. What would you change in your GitHub workflow next time?
+### 2. Which AI suggestion did you accept, and what made it useful?
+I accepted the suggestion to add a Responsible AI Use section to my README. It explains how I use ChatGPT and review its suggestions.
+
+### 3. Which AI suggestion did you revise or reject, and why?
+I revised the pull-request checklist to separate pre-merge checks from post-merge checks. I rejected marking merge-related items complete before the merge happened.
+
+### 4. What did you verify yourself instead of trusting the AI?
+I checked the selected branch, located my commits in GitHub, and copied the actual commit URLs. I also checked that issue links pointed to the specific issue rather than the issue list.
+
+### 5. What would you change in your GitHub workflow next time?
+I would record links as I complete each step and keep my AI log updated after each interaction. This would reduce the number of corrections needed later.
+
+
