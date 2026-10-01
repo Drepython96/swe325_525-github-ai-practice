@@ -9,7 +9,7 @@
 - Decision: Used the explanation to guide my work.
 - Changes or rejections: None recorded for this interaction.
 - Reason: The explanation connected each concept to this assignment.
-- Related GitHub URL: https://github.com/Drepython96/swe325_525-github-ai-practice/issues
+- Related GitHub URL: https://github.com/Drepython96/swe325_525-github-ai-practice/issues/1
 
 ## AI interaction 2: README improvement
 - Date: October 1, 2026
@@ -31,7 +31,8 @@
 - Decision: Pending my review.
 - Changes or rejections: To be recorded after I review the checklist.
 - Reason: I need to compare the checklist with the assignment instructions before deciding.
-- Related GitHub URL: [Add your issue URL; add the pull-request URL when available]
+- Related GitHub URL: https://github.com/Drepython96/swe325_525-github-ai-practice/issues/1
+- Pull-request URL: https://github.com/Drepython96/swe325_525-github-ai-practice/pull/2
 
 ## Reflection
 To be completed after reviewing the work.
