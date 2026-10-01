@@ -20,7 +20,7 @@
 - Decision: Accepted.
 - Changes or rejections: Added the suggested section without changes.
 - Reason: It explains my AI use and supports the assignment's purpose.
-- Related GitHub URL: https://github.com/Drepython96/swe325_525-github-ai-practice/issues
+- Related GitHub URL: - Related GitHub URL: https://github.com/Drepython96/swe325_525-github-ai-practice/commit/8ac78fa73062d960426b025c27d2698e069eedc4
 
 ## AI interaction 3: Pull-request checklist
 - Date: October 1, 2026
