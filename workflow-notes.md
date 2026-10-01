@@ -5,7 +5,11 @@
 - Default branch: main
 - Issue URL: https://github.com/Drepython96/swe325_525-github-ai-practice/issues
 - Feature branch: feature/github-ai-workflow
-- Meaningful commit links: To be added after the three commits are complete.
+- ## Meaningful commits
+- [Clarify repository purpose](https://github.com/Drepython96/swe325_525-github-ai-practice/commit/488267ef9da8279b26ffbdc6595a67d932fe754e)
+- [Document branch and pull request workflow](https://github.com/Drepython96/swe325_525-github-ai-practice/commit/3e23c05ad29342a453a136ad47a1d8929dd41d6f)
+- [Document responsible AI use](https://github.com/Drepython96/swe325_525-github-ai-practice/commit/8ac78fa73062d960426b025c27d2698e069eedc4)
+- [Add AI-use record](https://github.com/Drepython96/swe325_525-github-ai-practice/commit/6274f9c999a9aca9b7e2bf0b13a01166f0357cf1)
 - Pull-request URL: To be added after opening the pull request.
 - Merge or repository-history URL: To be added after merging.
 
