@@ -11,7 +11,7 @@
 - [Document responsible AI use](https://github.com/Drepython96/swe325_525-github-ai-practice/commit/8ac78fa73062d960426b025c27d2698e069eedc4)
 - [Add AI-use record](https://github.com/Drepython96/swe325_525-github-ai-practice/commit/6274f9c999a9aca9b7e2bf0b13a01166f0357cf1)
 - Pull-request URL: https://github.com/Drepython96/swe325_525-github-ai-practice/pull/2
-- Merge or repository-history URL: To be added after merging.
+- Merge or repository-history URL: https://github.com/Drepython96/swe325_525-github-ai-practice/commits/main
 
 ## GitHub concepts
 - Repository: Stores the files and their change history.
