@@ -21,3 +21,7 @@ I will use an issue to define the work, make changes on
 feature/github-ai-workflow, and record at least three meaningful commits.
 I will then open, review, revise, and merge a pull request into the default
 branch while retaining the feature branch.
+## Responsible AI Use
+I use ChatGPT to explain GitHub concepts and suggest documentation improvements.
+I review suggestions before using them and record my decisions in ai-log.md.
+I do not share passwords, access tokens, or private information.
