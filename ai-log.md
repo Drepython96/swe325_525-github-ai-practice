@@ -28,9 +28,9 @@
 - Purpose: Get a checklist for reviewing the pull request.
 - Prompt: Suggest a checklist for my pull request that covers the requirements of this GitHub workflow assignment.
 - Useful output: A checklist covering the files, feature branch, meaningful commits, AI documentation, pull-request description, review, reflection, and final merge checks.
-- Decision: Pending my review.
-- Changes or rejections: To be recorded after I review the checklist.
-- Reason: I need to compare the checklist with the assignment instructions before deciding.
+- Decision: Revised.
+- Changes or rejections: I will keep the documentation and review checks in the pull-request checklist. I will move the merge, final default-branch files, and retained-branch checks to a separate post-merge section. I rejected checking those items before the merge actually happens.
+- Reason: Separating the checks by timing prevents me from marking unfinished work as complete.
 - Related GitHub URL: https://github.com/Drepython96/swe325_525-github-ai-practice/issues/1
 - Pull-request URL: https://github.com/Drepython96/swe325_525-github-ai-practice/pull/2
 
